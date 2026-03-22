@@ -1,0 +1,17 @@
+# Repositorios de cliente — nunca subir al remoto
+client-repos/
+projects/
+workspace/
+
+# Ficheros de contexto local sensibles
+*.local.md
+*.private.md
+.env
+.env.*
+
+# Memoria local de Claude Code
+.claude/
+
+# Temporales
+*.tmp
+*.bak
